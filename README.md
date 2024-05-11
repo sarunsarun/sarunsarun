@@ -1,4 +1,4 @@
-# Hello, I'm [Sarun Thapa] 👋
+# Hello, I'm Sarun Thapa 👋
 
 I'm a DevOps Engineer passionate about automating, optimizing, and scaling infrastructure and deployment pipelines. With experience in following techs:, I strive to streamline development workflows and improve collaboration between teams.
 
